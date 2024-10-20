@@ -3,6 +3,10 @@
 [![Crates.io Version](https://img.shields.io/crates/v/rv3032)](https://crates.io/crates/rv3032)
 [![Released API docs](https://img.shields.io/docsrs/rv3032)](https://docs.rs/rv3032/)
 
+*IMPORTANT*: This is simply a placeholder repository, to reserve the namespace at Crates.io.
+
+<a href="https://github.com/sponsors/bsodmike" target="_blank">Consider supporting my FOSS work on Github</a>.  Feel free to either buy me a beer or supporting me monthly.  All proceeds will help me to transition fully to FOSS work, which is what I would love to do!
+
 ## Quickstart
 
 > [!TIP]
